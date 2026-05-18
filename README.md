@@ -41,13 +41,13 @@ project-folder/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/dharmendra-star/your-repository-name.git
+https://github.com/dharmendra-developer/Dharmendra-Webpage.git
 ```
 
 ### 2️⃣ Open Project Folder
 
 ```bash
-cd your-repository-name
+cd your-Dharmendra-Webpage
 ```
 
 ### 3️⃣ Run the Website
