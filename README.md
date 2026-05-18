@@ -72,7 +72,7 @@ Simply open `index.html` in your browser.
 
 ### Dharmendra Singh
 
-* GitHub: [https://github.com/dharmendra-star](https://github.com/dharmendra-star)
+* GitHub: [https://github.com/dharmendra-star](https://github.com/dharmendra-developer)
 * LinkedIn: [https://www.linkedin.com/in/dharmendra-singh-198032374](https://www.linkedin.com/in/dharmendra-singh-198032374)
 * Instagram: [https://www.instagram.com/dharmendra_developer/](https://www.instagram.com/dharmendra_developer/)
 * YouTube: [https://www.youtube.com/@dharmendra_developer3863](https://www.youtube.com/@dharmendra_developer3863)
